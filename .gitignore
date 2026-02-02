@@ -1,0 +1,48 @@
+# Build directories
+build/
+*/build/
+debug/
+release/
+
+# qmake generated files
+Makefile
+Makefile.*
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+
+# Object files
+*.o
+*.obj
+
+# Meta-object compiler files
+moc_*.cpp
+moc_*.h
+
+# UI compiler files
+ui_*.h
+
+# Resource compiler files
+qrc_*.cpp
+
+# Precompiled headers
+*.gch
+
+# Libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
