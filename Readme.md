@@ -20,4 +20,4 @@
 # QMessageBox
 - Pop up
 
-# open Dialog and Another window
+# Open Dialog and Another window
