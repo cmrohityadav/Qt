@@ -19,3 +19,5 @@
 
 # QMessageBox
 - Pop up
+
+# open Dialog and Another window
